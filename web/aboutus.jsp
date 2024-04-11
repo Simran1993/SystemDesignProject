@@ -1,7 +1,7 @@
 <%-- 
     Document   : aboutus
     Created on : Apr 10, 2024, 6:18:32 p.m.
-    Author     : OWNER
+    Author     : Krish Patel
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
