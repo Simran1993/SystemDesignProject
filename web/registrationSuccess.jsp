@@ -1,7 +1,7 @@
 <%-- 
     Document   : registrationSuccess
     Created on : Apr 10, 2024, 12:41:06 p.m.
-    Author     : Manpr
+    Author     : Arsh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

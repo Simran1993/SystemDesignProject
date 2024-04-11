@@ -1,7 +1,6 @@
 <%-- 
     Document   : index
-    Created on : Apr 8, 2024, 7:35:44 p.m.
-    Author     : OWNER
+    Author     : Arsh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,7 +1,6 @@
 <%-- 
     Document   : footer
-    Created on : Apr 9, 2024, 4:59:47 a.m.
-    Author     : OWNER
+    Author     : Arsh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
