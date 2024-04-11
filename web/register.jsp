@@ -1,14 +1,9 @@
 <%-- 
     Document   : register
     Created on : Apr 8, 2024, 7:33:47 p.m.
-    Author     : OWNER
+    Author     : Arsh
 --%>
 
-<%-- 
-    Document   : register
-    Created on : Apr 8, 2024, 7:18:43 p.m.
-    Author     : Manpr
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
