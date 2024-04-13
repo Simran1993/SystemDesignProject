@@ -1,0 +1,5 @@
+I have to delete the project files as it was not runnable , giving error on Web.xml file not found, the reason was simplely that when i tried to upload the fiel through intellji , i drag and drop the file,
+after knowing that i can use git bash to upload my files , i use git bash and uploaded the project file in the fixedFiled branch but didnt able to merge it ,Because it was giving me the error that both files are entirly different 
+,i thought delecting the files from ain branch can fixed it , but i was wrong.
+i know it is a hassle ,but please download the fwrp0.sql file from main the project file from the fixedFiled so that it can br runnable.
+thnak you 
