@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+//author-Krish Patel
+
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 (function ($) {
   'use strict';
 

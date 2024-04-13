@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package Serverlet;
+=======
+package src.java.Serverlet;
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 
 import DAO.UserDAOImpl;
 import javax.servlet.RequestDispatcher;

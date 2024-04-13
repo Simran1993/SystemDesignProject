@@ -1,6 +1,7 @@
 <%-- 
     Document   : register
     Created on : Apr 8, 2024, 7:33:47 p.m.
+<<<<<<< HEAD
     Author     : OWNER
 --%>
 
@@ -9,6 +10,11 @@
     Created on : Apr 8, 2024, 7:18:43 p.m.
     Author     : Manpr
 --%>
+=======
+    Author     : Arsh
+--%>
+
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 

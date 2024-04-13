@@ -2,7 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
+<<<<<<< HEAD
 package DAO;
+=======
+package src.java.DAO;
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 
 /**
  *

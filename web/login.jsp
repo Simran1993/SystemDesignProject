@@ -1,7 +1,13 @@
 <%-- 
     Document   : login
     Created on : Apr 9, 2024, 1:12:20 a.m.
+<<<<<<< HEAD
     Author     : OWNER
+=======
+    Author     : Krish
+    Author     :Arsh
+ main
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

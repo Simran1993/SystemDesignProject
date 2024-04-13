@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+
+<%--
+    Document   : AddProductMessage
+    Author     :Arsh
+
+--%>
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 <%@page import="java.util.List"%>
 <%@page import="DAO.ProductDAOImpl"%>
 <%@page import="Bean.Productbean"%>

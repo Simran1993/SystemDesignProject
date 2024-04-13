@@ -1,7 +1,11 @@
 <%-- 
     Document   : thankyou
     Created on : Apr 10, 2024, 5:50:24 p.m.
+<<<<<<< HEAD
     Author     : OWNER
+=======
+    Author     : Arsh
+>>>>>>> 6d2f4f8b8f6b17736d9a433cedfe2389a651b742
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
